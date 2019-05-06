@@ -1,0 +1,946 @@
+2019-05-04 mainwindow.py[line:53] AES/DES key path edit finished.(Path is )
+2019-05-04 mainwindow.py[line:53] AES/DES key path edit finished.(Path is )
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:31] SHA button state changed to True
+2019-05-04 mainwindow.py[line:31] SHA button state changed to False
+2019-05-04 mainwindow.py[line:25] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:37] DES button state changed to False
+2019-05-04 mainwindow.py[line:44] AES button state changed to True
+2019-05-04 mainwindow.py[line:44] AES button state changed to False
+2019-05-04 mainwindow.py[line:37] DES button state changed to True
+2019-05-04 mainwindow.py[line:67] RSA_A_pri key path edit finished.(Path is )
+2019-05-04 mainwindow.py[line:112] RSA_B_pri key path edit finished.(Path is )
+2019-05-04 mainwindow.py[line:97] RSA_B_pub key path edit finished.(Path is )
+2019-05-04 core.py[line:17] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:60] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:17] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:23] Accept connection from ('127.0.0.1', 53633).
+2019-05-04 core.py[line:45] Msg Size :20
+2019-05-04 core.py[line:60] Received Msg of size 20.
+2019-05-04 core.py[line:17] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:45] Msg Size :10
+2019-05-04 core.py[line:60] Received Msg of size 10.
+2019-05-04 core.py[line:23] Accept connection from ('127.0.0.1', 53635).
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:46] Msg Size :11
+2019-05-04 core.py[line:24] Accept connection from ('127.0.0.1', 53828).
+2019-05-04 core.py[line:61] Received Msg of size 11.
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:46] Msg Size :11
+2019-05-04 core.py[line:24] Accept connection from ('127.0.0.1', 53830).
+2019-05-04 core.py[line:61] Received Msg of size 11.
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:46] Msg Size :8
+2019-05-04 core.py[line:24] Accept connection from ('127.0.0.1', 53831).
+2019-05-04 core.py[line:61] Received Msg of size 8.
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:24] Accept connection from ('127.0.0.1', 53834).
+2019-05-04 core.py[line:46] Msg Size :6
+2019-05-04 core.py[line:61] Received Msg of size 6.
+2019-05-04 core.py[line:46] Msg Size :6
+2019-05-04 core.py[line:24] Accept connection from ('127.0.0.1', 53835).
+2019-05-04 core.py[line:61] Received Msg of size 6.
+2019-05-04 core.py[line:24] Accept connection from ('127.0.0.1', 53836).
+2019-05-04 core.py[line:46] Msg Size :6
+2019-05-04 core.py[line:61] Received Msg of size 6.
+2019-05-04 core.py[line:46] Msg Size :14
+2019-05-04 core.py[line:24] Accept connection from ('127.0.0.1', 53837).
+2019-05-04 core.py[line:61] Received Msg of size 14.
+2019-05-04 core.py[line:24] Accept connection from ('127.0.0.1', 53838).
+2019-05-04 core.py[line:46] Msg Size :19
+2019-05-04 core.py[line:61] Received Msg of size 19.
+2019-05-04 core.py[line:24] Accept connection from ('127.0.0.1', 53839).
+2019-05-04 core.py[line:46] Msg Size :23
+2019-05-04 core.py[line:61] Received Msg of size 23.
+2019-05-04 core.py[line:46] Msg Size :27
+2019-05-04 core.py[line:24] Accept connection from ('127.0.0.1', 53840).
+2019-05-04 core.py[line:61] Received Msg of size 27.
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:18] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:19] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:49] Msg Size :6
+2019-05-04 core.py[line:65] Received Msg of size 6.
+2019-05-04 core.py[line:26] Accept connection from ('127.0.0.1', 54277).
+2019-05-04 core.py[line:19] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:19] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:51] Msg Size :7
+2019-05-04 core.py[line:26] Accept connection from ('127.0.0.1', 54499).
+2019-05-04 core.py[line:67] Received Msg of size 7.
+2019-05-04 core.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54502).
+2019-05-04 core.py[line:52] Msg Size :11
+2019-05-04 core.py[line:68] Received Msg of size 11.
+2019-05-04 core.py[line:52] Msg Size :18
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54503).
+2019-05-04 core.py[line:68] Received Msg of size 18.
+2019-05-04 core.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:52] Msg Size :10
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54509).
+2019-05-04 core.py[line:68] Received Msg of size 10.
+2019-05-04 core.py[line:52] Msg Size :18
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54511).
+2019-05-04 core.py[line:68] Received Msg of size 18.
+2019-05-04 core.py[line:52] Msg Size :25
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54512).
+2019-05-04 core.py[line:68] Received Msg of size 25.
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54513).
+2019-05-04 core.py[line:52] Msg Size :32
+2019-05-04 core.py[line:68] Received Msg of size 32.
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54514).
+2019-05-04 core.py[line:52] Msg Size :32
+2019-05-04 core.py[line:68] Received Msg of size 32.
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54515).
+2019-05-04 core.py[line:52] Msg Size :32
+2019-05-04 core.py[line:68] Received Msg of size 32.
+2019-05-04 core.py[line:52] Msg Size :32
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54516).
+2019-05-04 core.py[line:68] Received Msg of size 32.
+2019-05-04 core.py[line:52] Msg Size :32
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54517).
+2019-05-04 core.py[line:68] Received Msg of size 32.
+2019-05-04 core.py[line:52] Msg Size :32
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54518).
+2019-05-04 core.py[line:68] Received Msg of size 32.
+2019-05-04 core.py[line:52] Msg Size :32
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54519).
+2019-05-04 core.py[line:68] Received Msg of size 32.
+2019-05-04 core.py[line:52] Msg Size :32
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54520).
+2019-05-04 core.py[line:68] Received Msg of size 32.
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54521).
+2019-05-04 core.py[line:52] Msg Size :32
+2019-05-04 core.py[line:68] Received Msg of size 32.
+2019-05-04 core.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:52] Msg Size :7
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54546).
+2019-05-04 core.py[line:68] Received Msg of size 7.
+2019-05-04 core.py[line:52] Msg Size :12
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54547).
+2019-05-04 core.py[line:68] Received Msg of size 12.
+2019-05-04 core.py[line:52] Msg Size :18
+2019-05-04 core.py[line:27] Accept connection from ('127.0.0.1', 54548).
+2019-05-04 core.py[line:68] Received Msg of size 18.
+2019-05-04 core.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:52] Msg Size :12
+2019-05-04 core.py[line:68] Received Msg of size 12.
+2019-05-04 core.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:53] Msg Size :8
+2019-05-04 core.py[line:69] Received Msg of size 8.
+2019-05-04 core.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is s)
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54567).
+2019-05-04 core.py[line:53] Msg Size :7
+2019-05-04 core.py[line:69] Received Msg of size 7.
+2019-05-04 core.py[line:53] Msg Size :16
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54568).
+2019-05-04 core.py[line:69] Received Msg of size 16.
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54569).
+2019-05-04 core.py[line:53] Msg Size :23
+2019-05-04 core.py[line:69] Received Msg of size 23.
+2019-05-04 core.py[line:53] Msg Size :29
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54570).
+2019-05-04 core.py[line:69] Received Msg of size 29.
+2019-05-04 core.py[line:53] Msg Size :34
+2019-05-04 core.py[line:69] Received Msg of size 34.
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54571).
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54572).
+2019-05-04 core.py[line:53] Msg Size :42
+2019-05-04 core.py[line:69] Received Msg of size 42.
+2019-05-04 core.py[line:53] Msg Size :48
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54573).
+2019-05-04 core.py[line:69] Received Msg of size 48.
+2019-05-04 core.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:61] AES/DES key path edit finished.(Path is )
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54715).
+2019-05-04 core.py[line:53] Msg Size :8
+2019-05-04 core.py[line:69] Received Msg of size 8.
+2019-05-04 core.py[line:53] Msg Size :14
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54716).
+2019-05-04 core.py[line:69] Received Msg of size 14.
+2019-05-04 core.py[line:53] Msg Size :25
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54717).
+2019-05-04 core.py[line:69] Received Msg of size 25.
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54718).
+2019-05-04 core.py[line:53] Msg Size :36
+2019-05-04 core.py[line:69] Received Msg of size 36.
+2019-05-04 core.py[line:53] Msg Size :46
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54719).
+2019-05-04 core.py[line:69] Received Msg of size 46.
+2019-05-04 core.py[line:53] Msg Size :54
+2019-05-04 core.py[line:69] Received Msg of size 54.
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54720).
+2019-05-04 core.py[line:53] Msg Size :62
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54721).
+2019-05-04 core.py[line:69] Received Msg of size 62.
+2019-05-04 core.py[line:53] Msg Size :69
+2019-05-04 core.py[line:69] Received Msg of size 69.
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54722).
+2019-05-04 core.py[line:53] Msg Size :75
+2019-05-04 core.py[line:28] Accept connection from ('127.0.0.1', 54723).
+2019-05-04 core.py[line:69] Received Msg of size 75.
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:66] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:66] AES/DES key path edit finished.(Path is )
+2019-05-04 mainwindow.py[line:48] DES button state changed to False
+2019-05-04 mainwindow.py[line:56] AES button state changed to True
+2019-05-04 mainwindow.py[line:56] AES button state changed to False
+2019-05-04 mainwindow.py[line:48] DES button state changed to True
+2019-05-04 mainwindow.py[line:34] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:41] SHA button state changed to True
+2019-05-04 mainwindow.py[line:41] SHA button state changed to False
+2019-05-04 mainwindow.py[line:34] MD5 button state changed to True
+2019-05-04 mainwindow.py[line:34] MD5 button state changed to False
+2019-05-04 mainwindow.py[line:41] SHA button state changed to True
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:67] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:67] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:69] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:60] Msg Size :9
+2019-05-04 communication.py[line:34] Accept connection from ('127.0.0.1', 55238).
+2019-05-04 communication.py[line:76] Received Msg of size 9.
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:60] Msg Size :9
+2019-05-04 communication.py[line:34] Accept connection from ('127.0.0.1', 55239).
+2019-05-04 communication.py[line:76] Received Msg of size 9.
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:34] Accept connection from ('127.0.0.1', 55240).
+2019-05-04 communication.py[line:60] Msg Size :15
+2019-05-04 communication.py[line:76] Received Msg of size 15.
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:34] Accept connection from ('127.0.0.1', 55242).
+2019-05-04 communication.py[line:60] Msg Size :6
+2019-05-04 communication.py[line:76] Received Msg of size 6.
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:34] Accept connection from ('127.0.0.1', 55243).
+2019-05-04 communication.py[line:60] Msg Size :11
+2019-05-04 communication.py[line:76] Received Msg of size 11.
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is afds)
+2019-05-04 communication.py[line:60] Msg Size :5
+2019-05-04 communication.py[line:34] Accept connection from ('127.0.0.1', 55244).
+2019-05-04 communication.py[line:76] Received Msg of size 5.
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is afds)
+2019-05-04 communication.py[line:60] Msg Size :31
+2019-05-04 communication.py[line:34] Accept connection from ('127.0.0.1', 55245).
+2019-05-04 communication.py[line:76] Received Msg of size 31.
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is afds)
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:34] Accept connection from ('127.0.0.1', 57040).
+2019-05-04 communication.py[line:60] Msg Size :10
+2019-05-04 communication.py[line:76] Received Msg of size 10.
+2019-05-04 mainwindow.py[line:82] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:95] AES/DES key path edit finished.(Path is logging.info('generate DES/AES key.(Key Path :{})'.format(des_key_path)))
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:95] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:95] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:95] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:96] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:96] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:59] generate DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-04 mainwindow.py[line:104] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-04 mainwindow.py[line:96] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-04 mainwindow.py[line:110] RSA_A_pri key path edit finished.(Path is )
+2019-05-04 mainwindow.py[line:96] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-04 mainwindow.py[line:110] RSA_A_pri key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:82] generate DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/A)
+2019-05-04 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-04 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-04 mainwindow.py[line:82] generate DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/A)
+2019-05-04 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:61] generate DES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:72] generate AES key.(Key Path :/Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:82] generate DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/A)
+2019-05-05 mainwindow.py[line:82] generate DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/B)
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:219] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:203] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:219] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:203] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :600
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 52861).
+2019-05-05 communication.py[line:76] Received Msg of size 600.
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 52868).
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 52957).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 52967).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53028).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53031).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53044).
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53045).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53047).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:99] DES button state changed to False
+2019-05-05 mainwindow.py[line:107] AES button state changed to True
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53048).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:107] AES button state changed to False
+2019-05-05 mainwindow.py[line:99] DES button state changed to True
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53049).
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:85] MD5 button state changed to False
+2019-05-05 mainwindow.py[line:92] SHA button state changed to True
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :544
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53098).
+2019-05-05 communication.py[line:76] Received Msg of size 544.
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53104).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53105).
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:85] MD5 button state changed to False
+2019-05-05 mainwindow.py[line:92] SHA button state changed to True
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53106).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53107).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53117).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:85] MD5 button state changed to False
+2019-05-05 mainwindow.py[line:92] SHA button state changed to True
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53118).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:99] DES button state changed to False
+2019-05-05 mainwindow.py[line:107] AES button state changed to True
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53121).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53122).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53123).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53124).
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53130).
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 53131).
+2019-05-05 communication.py[line:60] Msg Size :536
+2019-05-05 communication.py[line:76] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:61] Msg Size :528
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 49743).
+2019-05-05 communication.py[line:77] Received Msg of size 528.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:85] MD5 button state changed to False
+2019-05-05 mainwindow.py[line:92] SHA button state changed to True
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:61] Msg Size :528
+2019-05-05 communication.py[line:77] Received Msg of size 528.
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 49746).
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:61] Msg Size :528
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 49747).
+2019-05-05 communication.py[line:77] Received Msg of size 528.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:61] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 49753).
+2019-05-05 communication.py[line:77] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:61] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 49772).
+2019-05-05 communication.py[line:77] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:61] Msg Size :536
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 49836).
+2019-05-05 communication.py[line:77] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 communication.py[line:20] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:61] Msg Size :544
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 49855).
+2019-05-05 communication.py[line:77] Received Msg of size 544.
+2019-05-05 mainwindow.py[line:85] MD5 button state changed to False
+2019-05-05 mainwindow.py[line:92] SHA button state changed to True
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:61] Msg Size :544
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 49856).
+2019-05-05 communication.py[line:77] Received Msg of size 544.
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:99] DES button state changed to False
+2019-05-05 mainwindow.py[line:107] AES button state changed to True
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 49857).
+2019-05-05 communication.py[line:61] Msg Size :552
+2019-05-05 communication.py[line:77] Received Msg of size 552.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:61] Msg Size :552
+2019-05-05 communication.py[line:34] Accept connection from ('127.0.0.1', 49858).
+2019-05-05 communication.py[line:77] Received Msg of size 552.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:23] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:23] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:1080
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:140] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:154] Select Public rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:221] Select Private rsa key of b.(Key Path :/Users/logme/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-05 mainwindow.py[line:205] Select Private rsa key of a.(Key Path :/Users/logme/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:62] Msg Size :536
+2019-05-05 communication.py[line:78] Received Msg of size 536.
+2019-05-05 communication.py[line:36] Accept connection from ('127.0.0.1', 50391).
+2019-05-05 mainwindow.py[line:85] MD5 button state changed to False
+2019-05-05 mainwindow.py[line:92] SHA button state changed to True
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:62] Msg Size :536
+2019-05-05 communication.py[line:36] Accept connection from ('127.0.0.1', 50394).
+2019-05-05 communication.py[line:78] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:99] DES button state changed to False
+2019-05-05 mainwindow.py[line:107] AES button state changed to True
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/des)
+2019-05-05 mainwindow.py[line:132] RSA_A_pri key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-05 mainwindow.py[line:126] Select DES/AES key.(Key Path :/Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:62] Msg Size :536
+2019-05-05 communication.py[line:36] Accept connection from ('127.0.0.1', 50399).
+2019-05-05 communication.py[line:78] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:92] SHA button state changed to False
+2019-05-05 mainwindow.py[line:85] MD5 button state changed to True
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 mainwindow.py[line:182] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': '/Users/logme/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': '/Users/logme/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': '/Users/logme/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-05 communication.py[line:62] Msg Size :536
+2019-05-05 communication.py[line:36] Accept connection from ('127.0.0.1', 50402).
+2019-05-05 communication.py[line:78] Received Msg of size 536.
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is /Users/logme/NetworkSecurity/keys/aes)
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:1080
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:1080
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-05 mainwindow.py[line:196] RSA_B_pub key path edit finished.(Path is )
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 mainwindow.py[line:118] AES/DES key path edit finished.(Path is )
+2019-05-05 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-06 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-06 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-06 mainwindow.py[line:99] DES button state changed to False
+2019-05-06 mainwindow.py[line:107] AES button state changed to True
+2019-05-06 mainwindow.py[line:107] AES button state changed to False
+2019-05-06 mainwindow.py[line:99] DES button state changed to True
+2019-05-06 mainwindow.py[line:99] DES button state changed to False
+2019-05-06 mainwindow.py[line:107] AES button state changed to True
+2019-05-06 mainwindow.py[line:107] AES button state changed to False
+2019-05-06 mainwindow.py[line:99] DES button state changed to True
+2019-05-06 mainwindow.py[line:99] DES button state changed to False
+2019-05-06 mainwindow.py[line:107] AES button state changed to True
+2019-05-06 mainwindow.py[line:107] AES button state changed to False
+2019-05-06 mainwindow.py[line:99] DES button state changed to True
+2019-05-06 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-06 communication.py[line:22] Listening on 127.0.0.1:10800
+2019-05-06 mainwindow.py[line:143] Select Private rsa key of a.(Key Path :C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/des)
+2019-05-06 mainwindow.py[line:143] Select Private rsa key of a.(Key Path :C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem)
+2019-05-06 mainwindow.py[line:157] Select Public rsa key of b.(Key Path :C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem)
+2019-05-06 mainwindow.py[line:129] Select DES/AES key.(Key Path :C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/des)
+2019-05-06 mainwindow.py[line:224] Select Private rsa key of b.(Key Path :C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pem)
+2019-05-06 mainwindow.py[line:208] Select Private rsa key of a.(Key Path :C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pub.pem)
+2019-05-06 mainwindow.py[line:185] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-06 communication.py[line:62] Msg Size :544
+2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50205).
+2019-05-06 communication.py[line:78] Received Msg of size 544.
+2019-05-06 mainwindow.py[line:185] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-06 communication.py[line:62] Msg Size :544
+2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50206).
+2019-05-06 communication.py[line:78] Received Msg of size 544.
+2019-05-06 mainwindow.py[line:88] MD5 button state changed to False
+2019-05-06 mainwindow.py[line:95] SHA button state changed to True
+2019-05-06 mainwindow.py[line:185] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50207).
+2019-05-06 communication.py[line:62] Msg Size :544
+2019-05-06 communication.py[line:78] Received Msg of size 544.
+2019-05-06 mainwindow.py[line:95] SHA button state changed to False
+2019-05-06 mainwindow.py[line:88] MD5 button state changed to True
+2019-05-06 mainwindow.py[line:185] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'MD5', 'AES_DES_KEY_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-06 communication.py[line:62] Msg Size :544
+2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50208).
+2019-05-06 communication.py[line:78] Received Msg of size 544.
+2019-05-06 mainwindow.py[line:88] MD5 button state changed to False
+2019-05-06 mainwindow.py[line:95] SHA button state changed to True
+2019-05-06 mainwindow.py[line:185] encode with enc_structure:{'SYM_ENC_METHOD': 'DES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/des', 'RSA_A_PRI_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-06 communication.py[line:62] Msg Size :544
+2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50209).
+2019-05-06 communication.py[line:78] Received Msg of size 544.
+2019-05-06 mainwindow.py[line:102] DES button state changed to False
+2019-05-06 mainwindow.py[line:110] AES button state changed to True
+2019-05-06 mainwindow.py[line:129] Select DES/AES key.(Key Path :C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/aes)
+2019-05-06 mainwindow.py[line:185] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-06 communication.py[line:62] Msg Size :552
+2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50211).
+2019-05-06 communication.py[line:78] Received Msg of size 552.
+2019-05-06 mainwindow.py[line:185] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50212).
+2019-05-06 communication.py[line:62] Msg Size :552
+2019-05-06 communication.py[line:78] Received Msg of size 552.
+2019-05-06 mainwindow.py[line:185] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50213).
+2019-05-06 communication.py[line:62] Msg Size :552
+2019-05-06 communication.py[line:78] Received Msg of size 552.
+2019-05-06 mainwindow.py[line:185] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-06 communication.py[line:62] Msg Size :552
+2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50214).
+2019-05-06 communication.py[line:78] Received Msg of size 552.
+2019-05-06 mainwindow.py[line:185] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-06 communication.py[line:62] Msg Size :552
+2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50215).
+2019-05-06 communication.py[line:78] Received Msg of size 552.
+2019-05-06 mainwindow.py[line:185] encode with enc_structure:{'SYM_ENC_METHOD': 'AES', 'HASH_FUNCTION': 'SHA', 'AES_DES_KEY_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/aes', 'RSA_A_PRI_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/A/id_rsa.pem', 'RSA_B_PUB_PATH': 'C:/Users/logme/Desktop/NetworkSecurity/NetworkSecurity/keys/B/id_rsa.pub.pem'}
+2019-05-06 communication.py[line:62] Msg Size :552
+2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50216).
+2019-05-06 communication.py[line:78] Received Msg of size 552.

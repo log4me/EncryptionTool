@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>825</width>
+    <height>508</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="Line" name="line">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>-30</y>
+      <width>20</width>
+      <height>571</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Vertical</enum>
+    </property>
+   </widget>
+   <widget class="QGroupBox" name="A_box">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>421</width>
+      <height>431</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>用户A</string>
+    </property>
+    <widget class="QGroupBox" name="Hash_function_selection">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>290</y>
+       <width>81</width>
+       <height>61</height>
+      </rect>
+     </property>
+     <property name="title">
+      <string>哈希函数</string>
+     </property>
+     <property name="hashFunction" stdset="0">
+      <string>MD5</string>
+     </property>
+     <widget class="QRadioButton" name="MD5">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>20</y>
+        <width>51</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>MD5</string>
+      </property>
+      <property name="checked">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QRadioButton" name="SHA">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>40</y>
+        <width>51</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>SHA</string>
+      </property>
+      <property name="checked">
+       <bool>false</bool>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QGroupBox" name="groupBox_8">
+     <property name="geometry">
+      <rect>
+       <x>350</x>
+       <y>310</y>
+       <width>71</width>
+       <height>101</height>
+      </rect>
+     </property>
+     <property name="title">
+      <string/>
+     </property>
+     <widget class="QPushButton" name="pushButton_2">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>35</y>
+        <width>71</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>发送</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QGroupBox" name="key_selection">
+     <property name="geometry">
+      <rect>
+       <x>120</x>
+       <y>290</y>
+       <width>221</width>
+       <height>131</height>
+      </rect>
+     </property>
+     <property name="title">
+      <string>公/密钥选择</string>
+     </property>
+     <widget class="QGroupBox" name="DES_AES_Key_selection">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>20</y>
+        <width>211</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="title">
+       <string/>
+      </property>
+      <widget class="QLineEdit" name="DES_AES_Key_Path">
+       <property name="geometry">
+        <rect>
+         <x>100</x>
+         <y>8</y>
+         <width>113</width>
+         <height>21</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLabel" name="DES_AES_Label">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>10</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>DES密钥      ：</string>
+       </property>
+      </widget>
+     </widget>
+     <widget class="QGroupBox" name="RSA_A_P_Key_selection">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>55</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="title">
+       <string/>
+      </property>
+      <widget class="QLineEdit" name="RSA_A_Pri_Path">
+       <property name="geometry">
+        <rect>
+         <x>100</x>
+         <y>8</y>
+         <width>113</width>
+         <height>21</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLabel" name="RSA_A_Pri_Label">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>10</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>A的RSA私钥 ：</string>
+       </property>
+      </widget>
+     </widget>
+     <widget class="QGroupBox" name="RSA_B_Pub_selection">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>90</y>
+        <width>211</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="title">
+       <string/>
+      </property>
+      <widget class="QLineEdit" name="RSA_B_Pub_Path">
+       <property name="geometry">
+        <rect>
+         <x>100</x>
+         <y>8</y>
+         <width>113</width>
+         <height>21</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLabel" name="RSA_B_Pub_Label">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>10</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>B的RSA公钥 :</string>
+       </property>
+      </widget>
+     </widget>
+    </widget>
+    <widget class="QGroupBox" name="sym_encryption_selection">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>350</y>
+       <width>81</width>
+       <height>71</height>
+      </rect>
+     </property>
+     <property name="title">
+      <string>对称加密算法</string>
+     </property>
+     <property name="symEncMethod" stdset="0">
+      <string>DES</string>
+     </property>
+     <widget class="QRadioButton" name="DES">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>20</y>
+        <width>51</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>DES</string>
+      </property>
+      <property name="checked">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QRadioButton" name="AES">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>40</y>
+        <width>51</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>AES</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QGroupBox" name="groupBox">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>20</y>
+       <width>411</width>
+       <height>271</height>
+      </rect>
+     </property>
+     <property name="title">
+      <string>明文</string>
+     </property>
+     <widget class="QPlainTextEdit" name="message_editor">
+      <property name="geometry">
+       <rect>
+        <x>3</x>
+        <y>17</y>
+        <width>411</width>
+        <height>271</height>
+       </rect>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="B_box">
+    <property name="geometry">
+     <rect>
+      <x>429</x>
+      <y>-1</y>
+      <width>331</width>
+      <height>431</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>用户B</string>
+    </property>
+    <widget class="QGroupBox" name="Message_infos">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>20</y>
+       <width>331</width>
+       <height>291</height>
+      </rect>
+     </property>
+     <property name="title">
+      <string/>
+     </property>
+     <widget class="QGroupBox" name="groupBox_15">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>331</width>
+        <height>121</height>
+       </rect>
+      </property>
+      <property name="title">
+       <string>解密后的明文</string>
+      </property>
+      <widget class="QTextBrowser" name="Message_box">
+       <property name="geometry">
+        <rect>
+         <x>-5</x>
+         <y>21</y>
+         <width>341</width>
+         <height>181</height>
+        </rect>
+       </property>
+      </widget>
+     </widget>
+     <widget class="QGroupBox" name="groupBox_16">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>120</y>
+        <width>331</width>
+        <height>91</height>
+       </rect>
+      </property>
+      <property name="title">
+       <string>接收到的HASH值</string>
+      </property>
+      <widget class="QTextBrowser" name="Hash_R">
+       <property name="geometry">
+        <rect>
+         <x>-5</x>
+         <y>21</y>
+         <width>341</width>
+         <height>71</height>
+        </rect>
+       </property>
+      </widget>
+     </widget>
+     <widget class="QGroupBox" name="groupBox_17">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>210</y>
+        <width>331</width>
+        <height>81</height>
+       </rect>
+      </property>
+      <property name="title">
+       <string>计算得到的HASH值</string>
+      </property>
+      <widget class="QTextBrowser" name="Hash_C">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>20</y>
+         <width>331</width>
+         <height>61</height>
+        </rect>
+       </property>
+      </widget>
+     </widget>
+    </widget>
+    <widget class="QGroupBox" name="groupBox_18">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>320</y>
+       <width>321</width>
+       <height>101</height>
+      </rect>
+     </property>
+     <property name="title">
+      <string>公/密钥选择</string>
+     </property>
+     <widget class="QGroupBox" name="RSA_B_Pri_selection">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>20</y>
+        <width>321</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="title">
+       <string/>
+      </property>
+      <widget class="QLineEdit" name="RSA_B_Pri_Path_2">
+       <property name="geometry">
+        <rect>
+         <x>100</x>
+         <y>8</y>
+         <width>161</width>
+         <height>21</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLabel" name="RSA_B_Pri_Label">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>10</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>B的RSA私钥 ：</string>
+       </property>
+      </widget>
+     </widget>
+     <widget class="QGroupBox" name="RSA_A_Pub_selection">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>60</y>
+        <width>321</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="title">
+       <string/>
+      </property>
+      <widget class="QLineEdit" name="RSA_A_Pub_Path">
+       <property name="geometry">
+        <rect>
+         <x>100</x>
+         <y>8</y>
+         <width>161</width>
+         <height>21</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLabel" name="RSA_A_Pub_Label">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>10</y>
+         <width>91</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>A的RSA公钥 :</string>
+       </property>
+      </widget>
+     </widget>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>825</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menutools">
+    <property name="title">
+     <string>工具</string>
+    </property>
+    <addaction name="action_generate_des_key"/>
+    <addaction name="action_generate_aes_key"/>
+    <addaction name="action_generate_rsa_key"/>
+   </widget>
+   <addaction name="menutools"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="action_generate_des_key">
+   <property name="text">
+    <string>DES密钥生成</string>
+   </property>
+  </action>
+  <action name="action_generate_aes_key">
+   <property name="text">
+    <string>AES密钥生成</string>
+   </property>
+  </action>
+  <action name="action_generate_rsa_key">
+   <property name="text">
+    <string>RSA公/私钥生成</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
