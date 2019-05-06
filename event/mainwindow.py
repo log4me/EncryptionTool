@@ -1,6 +1,8 @@
-from PySide2.QtWidgets import QMainWindow
+try:
+    from PySide2.QtWidgets import QMainWindow, QFileDialog, QMessageBox
+except ModuleNotFoundError:
+    from PyQt5.QtWidgets import QMainWindow, QFileDialog, QMessageBox
 from ui.mainwindow import Ui_MainWindow
-from PySide2.QtWidgets import QFileDialog, QMessageBox
 from core.communication import ASender, BListener
 from core.encryption import msg_encode, msg_decode
 import config as cfg

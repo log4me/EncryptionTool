@@ -1,7 +1,10 @@
 # This Python file uses the following encoding: utf-8
 import config as cfg
 import sys
-from PySide2.QtWidgets import QApplication, QMainWindow
+try:
+    from PySide2.QtWidgets import QApplication, QMainWindow
+except ModuleNotFoundError:
+    from PyQt5.QtWidgets import QApplication, QMainWindow
 from event.mainwindow import MainWindow
 
 

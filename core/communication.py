@@ -1,7 +1,11 @@
 import config
 import socket
 import tools.byteutils as bu
-from PySide2.QtCore import Signal, QObject
+try :
+    from PySide2.QtCore import Signal, QObject
+except ModuleNotFoundError:
+    from PyQt5.QtCore import pyqtSignal as Signal
+    from PyQt5.QtCore import QObject
 import threading
 import logging
 

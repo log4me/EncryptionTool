@@ -944,3 +944,4 @@
 2019-05-06 communication.py[line:62] Msg Size :552
 2019-05-06 communication.py[line:36] Accept connection from ('127.0.0.1', 50216).
 2019-05-06 communication.py[line:78] Received Msg of size 552.
+2019-05-06 communication.py[line:26] Listening on 127.0.0.1:10800
